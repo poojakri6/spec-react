@@ -1,0 +1,23 @@
+.form {
+  margin-left: 20px;
+}
+.label {
+  width: 40%;
+}
+.lower-label {
+  color: gray;
+  size: 10px;
+}
+.textarea {
+  width: 90%;
+  height: 120px;
+}
+.box {
+  width: 88%;
+  height: 100px;
+  border-width: 1;
+}
+.button {
+  margin-top: 20px;
+  align-self: center;
+}
